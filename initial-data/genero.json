@@ -1,0 +1,21 @@
+[
+    {
+      "_id": "b2bbf1d8-6e72-4b6a-8e6b-811b0f4e46e0",
+      "gen_id": "d0ea9cda-8ff2-46c3-b1a4-52ab4e1b8c21",
+      "gen_nombre": "Masculino",
+      "gen_abreviatura": "M"
+    },
+    {
+      "_id": "58a9b0c5-3bfe-45c2-9f3e-2e1ee48f4c04",
+      "gen_id": "8b134c08-2a49-4f3b-8e51-0c24709d4643",
+      "gen_nombre": "Femenino",
+      "gen_abreviatura": "F"
+    },
+    {
+      "_id": "bd35f647-7e56-4b3e-84a7-93d8f6c562e3",
+      "gen_id": "7b68a74e-89ea-472a-bf4f-bab5a199d5e1",
+      "gen_nombre": "Otro",
+      "gen_abreviatura": "O"
+    }
+  ]
+  

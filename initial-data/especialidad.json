@@ -1,0 +1,43 @@
+[
+    {
+      "esp_id": "5aaf8ac1-66ef-4425-92c3-0d930b0dca34",
+      "esp_nombre": "Cardiología"
+    },
+    {
+      "esp_id": "ce20d4e5-fa69-41a3-b4c9-cd2eb79e257a",
+      "esp_nombre": "Dermatología"
+    },
+    {
+      "esp_id": "13f2f8e7-6e11-4f98-bf06-77952452ae7e",
+      "esp_nombre": "Gastroenterología"
+    },
+    {
+      "esp_id": "a54f65db-94a0-48e5-9e60-05d04b465a32",
+      "esp_nombre": "Oftalmología"
+    },
+    {
+      "esp_id": "3e4a67c0-3f71-4b4e-8b05-7c1f9a30c7f2",
+      "esp_nombre": "Ortopedia"
+    },
+    {
+      "esp_id": "97efc0a7-558c-4b95-85e5-50ed784e29c9",
+      "esp_nombre": "Pediatría"
+    },
+    {
+      "esp_id": "b798ea2b-8f50-4cfb-9d20-c7246c3b631f",
+      "esp_nombre": "Neurología"
+    },
+    {
+      "esp_id": "6e3c6487-ba79-4e87-832e-619b6828552b",
+      "esp_nombre": "Urología"
+    },
+    {
+      "esp_id": "2c448c0e-8716-4bb7-8eeb-177f3f6b1e56",
+      "esp_nombre": "Oncología"
+    },
+    {
+      "esp_id": "7bfba01b-eab9-4f0f-8e45-55bdf8247f04",
+      "esp_nombre": "Psiquiatría"
+    }
+  ]
+  

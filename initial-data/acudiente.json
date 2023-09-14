@@ -1,0 +1,63 @@
+[
+    {
+      "acu_codigo": "7a5b1a11-20f2-46a7-85a5-06d8b06b05f2",
+      "acu_nombre_completo": "Luis Gómez",
+      "acu_telefono": "555-123-7890",
+      "acu_direccion": "Calle 789, Villa"
+    },
+    {
+      "acu_codigo": "84a9388a-257c-4b65-95b2-0a4d3d96bfa5",
+      "acu_nombre_completo": "Ana Martínez",
+      "acu_telefono": "777-987-6543",
+      "acu_direccion": "Avenida 101, Ciudadela"
+    },
+    {
+      "acu_codigo": "ad60dfb6-e94c-4ebf-86e6-71933486c104",
+      "acu_nombre_completo": "Carlos López",
+      "acu_telefono": "888-222-3333",
+      "acu_direccion": "Calle 456, Pueblo Nuevo"
+    },
+    {
+      "acu_codigo": "956230aa-599d-49db-8bc5-58a581c31fc0",
+      "acu_nombre_completo": "Isabel Sánchez",
+      "acu_telefono": "999-111-2222",
+      "acu_direccion": "Avenida 789, Playa"
+    },
+    {
+      "acu_codigo": "36c79f95-373d-424e-9161-9e20ef2e8f4b",
+      "acu_nombre_completo": "Pedro Ramírez",
+      "acu_telefono": "777-555-4444",
+      "acu_direccion": "Calle 222, Montaña"
+    },
+    {
+      "acu_codigo": "b00a87eb-47e7-4e72-9532-cf8a60cd07c0",
+      "acu_nombre_completo": "Laura Torres",
+      "acu_telefono": "555-999-8888",
+      "acu_direccion": "Avenida 333, Bosque"
+    },
+    {
+      "acu_codigo": "3b1c4c91-5f6d-4cc4-a2f6-88f4288b9de2",
+      "acu_nombre_completo": "Mario González",
+      "acu_telefono": "666-444-3333",
+      "acu_direccion": "Calle 777, Campo"
+    },
+    {
+      "acu_codigo": "c9655722-3d63-430c-878e-6a9bb6831353",
+      "acu_nombre_completo": "Sandra Mendoza",
+      "acu_telefono": "333-666-5555",
+      "acu_direccion": "Avenida 444, Colina"
+    },
+    {
+      "acu_codigo": "14659f3a-deda-40f6-b9e6-18f81d3aa4cb",
+      "acu_nombre_completo": "Jorge Pérez",
+      "acu_telefono": "888-111-6666",
+      "acu_direccion": "Calle 555, Valle"
+    },
+    {
+      "acu_codigo": "16ea73f5-773a-4e7a-99bb-3eef5c5aef51",
+      "acu_nombre_completo": "Carolina Vargas",
+      "acu_telefono": "555-444-7777",
+      "acu_direccion": "Avenida 666, Lago"
+    }
+  ]
+  

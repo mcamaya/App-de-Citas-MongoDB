@@ -1,0 +1,194 @@
+[
+  {
+    "_id": "65033f67b5526d0a9f658043",
+    "cit_codigo": "1f7c9ce7-6630-4f7b-8e5c-8b1ac76507aa",
+    "cit_fecha": "2023-09-15",
+    "cit_estado": "Programada",
+    "cit_medico": "Dr. Juan Pérez",
+    "cit_datosUsuario": {
+      "nombre_completo": "David González",
+      "correo": "david.gonzalez@example.com",
+      "documento": "9876543210"
+    }
+  },
+  {
+    "_id": "7a4c80e2620b864bb0d0349a",
+    "cit_codigo": "2a3192d5-5d57-4ef0-b2d2-4970bfc5a447",
+    "cit_fecha": "2023-09-16",
+    "cit_estado": "Confirmada",
+    "cit_medico": "Dra. María González",
+    "cit_datosUsuario": {
+      "nombre_completo": "Carlos López",
+      "correo": "carlos.lopez@example.com",
+      "documento": "1234567890"
+    }
+  },
+  {
+    "_id": "9bf98b1a05143210706ff7a6",
+    "cit_codigo": "3e2d0c07-faaf-4c5c-b5e5-06a4223d0e6b",
+    "cit_fecha": "2023-09-17",
+    "cit_estado": "En Curso",
+    "cit_medico": "Dr. Carlos Torres",
+    "cit_datosUsuario": {
+      "nombre_completo": "Isabel Sánchez",
+      "correo": "isabel.sanchez@example.com",
+      "documento": "2345678901"
+    }
+  },
+  {
+    "_id": "53658d29b86c4fbd96030ad7",
+    "cit_codigo": "4a3192d5-5d57-4ef0-b2d2-4970bfc5a447",
+    "cit_fecha": "2023-09-18",
+    "cit_estado": "Atendida",
+    "cit_medico": "Dra. Laura Ramírez",
+    "cit_datosUsuario": {
+      "nombre_completo": "David González",
+      "correo": "david.gonzalez@example.com",
+      "documento": "9876543210"
+    }
+  },
+  {
+    "_id": "3f9aeb308faff94d82db3bf5",
+    "cit_codigo": "5e2d0c07-faaf-4c5c-b5e5-06a4223d0e6b",
+    "cit_fecha": "2023-09-19",
+    "cit_estado": "Programada",
+    "cit_medico": "Dr. Jorge Pérez",
+    "cit_datosUsuario": {
+      "nombre_completo": "Laura Torres",
+      "correo": "laura.torres@example.com",
+      "documento": "4567890123"
+    }
+  },
+  {
+    "_id": "e2e60a49e46a2d1091742dd0",
+    "cit_codigo": "6a3192d5-5d57-4ef0-b2d2-4970bfc5a447",
+    "cit_fecha": "2023-09-20",
+    "cit_estado": "Confirmada",
+    "cit_medico": "Dra. Sandra Mendoza",
+    "cit_datosUsuario": {
+      "nombre_completo": "Mario González",
+      "correo": "mario.gonzalez@example.com",
+      "documento": "5678901234"
+    }
+  },
+  {
+    "_id": "5ef491f732ba3be710f7ca05",
+    "cit_codigo": "7e2d0c07-faaf-4c5c-b5e5-06a4223d0e6b",
+    "cit_fecha": "2023-09-21",
+    "cit_estado": "En Curso",
+    "cit_medico": "Dr. Luis Gómez",
+    "cit_datosUsuario": {
+      "nombre_completo": "Sandra Mendoza",
+      "correo": "sandra.mendoza@example.com",
+      "documento": "6789012345"
+    }
+  },
+  {
+    "_id": "a8a0d3b6d6baaed4b6a244f5",
+    "cit_codigo": "8a3192d5-5d57-4ef0-b2d2-4970bfc5a447",
+    "cit_fecha": "2023-09-22",
+    "cit_estado": "Atendida",
+    "cit_medico": "Dra. Carla Vargas",
+    "cit_datosUsuario": {
+      "nombre_completo": "Jorge Pérez",
+      "correo": "jorge.perez@example.com",
+      "documento": "7890123456"
+    }
+  },
+  {
+    "_id": "ae3ff68a54f2b58b603bf6cd",
+    "cit_codigo": "9e2d0c07-faaf-4c5c-b5e5-06a4223d0e6b",
+    "cit_fecha": "2023-09-23",
+    "cit_estado": "Cancelada",
+    "cit_medico": "Dr. Alberto Castro",
+    "cit_datosUsuario": {
+      "nombre_completo": "Carolina Vargas",
+      "correo": "carolina.vargas@example.com",
+      "documento": "8901234567"
+    }
+  },
+  {
+    "_id": "d8c5a56cd8911c5b6bfce04e",
+    "cit_codigo": "1b3192d5-5d57-4ef0-b2d2-4970bfc5a447",
+    "cit_fecha": "2023-09-24",
+    "cit_estado": "En Curso",
+    "cit_medico": "Dra. Ana Martínez",
+    "cit_datosUsuario": {
+      "nombre_completo": "Pedro López",
+      "correo": "pedro.lopez@example.com",
+      "documento": "9012345678"
+    }
+  },
+  {
+    "_id": "4d09a21e94645f95d1dc9c85",
+    "cit_codigo": "2e3192d5-5d57-4ef0-b2d2-4970bfc5a447",
+    "cit_fecha": "2023-09-25",
+    "cit_estado": "Programada",
+    "cit_medico": "Dr. David Morales",
+    "cit_datosUsuario": {
+      "nombre_completo": "Laura Ramírez",
+      "correo": "laura.ramirez@example.com",
+      "documento": "0123456789"
+    }
+  },
+  {
+    "_id": "8f35a5b6349fffd4491f4f2d",
+    "cit_codigo": "3b2d0c07-faaf-4c5c-b5e5-06a4223d0e6b",
+    "cit_fecha": "2023-09-26",
+    "cit_estado": "Atendida",
+    "cit_medico": "Dra. Sofía García",
+    "cit_datosUsuario": {
+      "nombre_completo": "Carlos Martínez",
+      "correo": "carlos.martinez@example.com",
+      "documento": "2345678901"
+    }
+  },
+  {
+    "_id": "79d68c475bf3a43cd44c1c52",
+    "cit_codigo": "4b3192d5-5d57-4ef0-b2d2-4970bfc5a447",
+    "cit_fecha": "2023-09-27",
+    "cit_estado": "Programada",
+    "cit_medico": "Dr. Juan Ramírez",
+    "cit_datosUsuario": {
+      "nombre_completo": "Sofía Torres",
+      "correo": "sofia.torres@example.com",
+      "documento": "3456789012"
+    }
+  },
+  {
+    "_id": "36a8587be5b536afd433dd45",
+    "cit_codigo": "5b2d0c07-faaf-4c5c-b5e5-06a4223d0e6b",
+    "cit_fecha": "2023-09-28",
+    "cit_estado": "Confirmada",
+    "cit_medico": "Dr. Luis González",
+    "cit_datosUsuario": {
+      "nombre_completo": "Ana Martínez",
+      "correo": "ana.martinez@example.com",
+      "documento": "4567890123"
+    }
+  },
+  {
+    "_id": "e084abfd08e7710d6809487b",
+    "cit_codigo": "6b3192d5-5d57-4ef0-b2d2-4970bfc5a447",
+    "cit_fecha": "2023-09-29",
+    "cit_estado": "Atendida",
+    "cit_medico": "Dra. David Ramírez",
+    "cit_datosUsuario": {
+      "nombre_completo": "Luis García",
+      "correo": "luis.garcia@example.com",
+      "documento": "5678901234"
+    }
+  },
+  {
+    "_id": "50964b21c3ea8a67d68d5a56",
+    "cit_codigo": "7b2d0c07-faaf-4c5c-b5e5-06a4223d0e6b",
+    "cit_fecha": "2023-09-30",
+    "cit_estado": "Programada",
+    "cit_medico": "Dr. Alberto López",
+    "cit_datosUsuario": {
+      "nombre_completo": "David González",
+      "correo": "david.gonzalez@example.com",
+      "documento": "9876543210"
+    }
+  }
+]

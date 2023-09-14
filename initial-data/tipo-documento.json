@@ -1,0 +1,18 @@
+[
+    {
+      "tipodoc_id": "9a76a139-0581-46c0-b1ce-725847f66b8a",
+      "tipodoc_nombre": "Cédula de Ciudadanía",
+      "tipodoc_abreviatura": "CC"
+    },
+    {
+      "tipodoc_id": "cb5f0751-4b4e-4f56-8f56-e5927c0a5a61",
+      "tipodoc_nombre": "Tarjeta de Identidad",
+      "tipodoc_abreviatura": "TI"
+    },
+    {
+      "tipodoc_id": "e53ca819-6b99-48ca-9f03-61f49f340a28",
+      "tipodoc_nombre": "Pasaporte",
+      "tipodoc_abreviatura": "PP"
+    }
+  ]
+  

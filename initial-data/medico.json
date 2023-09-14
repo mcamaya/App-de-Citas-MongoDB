@@ -1,0 +1,62 @@
+[
+  {
+    "med_nro_matricula": "12345",
+    "med_nombre_completo": "Dr. Juan Pérez",
+    "med_consultorio": "Consultorio 101",
+    "med_especialidad": "Cardiología"
+  },
+  {
+    "med_nro_matricula": "67890",
+    "med_nombre_completo": "Dra. María Rodríguez",
+    "med_consultorio": "Consultorio 102",
+    "med_especialidad": "Dermatología"
+  },
+  {
+    "med_nro_matricula": "54321",
+    "med_nombre_completo": "Dr. Carlos López",
+    "med_consultorio": "Consultorio 103",
+    "med_especialidad": "Gastroenterología"
+  },
+  {
+    "med_nro_matricula": "98765",
+    "med_nombre_completo": "Dra. Isabel Sánchez",
+    "med_consultorio": "Consultorio 104",
+    "med_especialidad": "Oftalmología"
+  },
+  {
+    "med_nro_matricula": "23456",
+    "med_nombre_completo": "Dr. Pedro Ramírez",
+    "med_consultorio": "Consultorio 105",
+    "med_especialidad": "Ortopedia"
+  },
+  {
+    "med_nro_matricula": "87654",
+    "med_nombre_completo": "Dra. Laura Torres",
+    "med_consultorio": "Consultorio 106",
+    "med_especialidad": "Pediatría"
+  },
+  {
+    "med_nro_matricula": "34567",
+    "med_nombre_completo": "Dr. Mario González",
+    "med_consultorio": "Consultorio 107",
+    "med_especialidad": "Neurología"
+  },
+  {
+    "med_nro_matricula": "76543",
+    "med_nombre_completo": "Dra. Sandra Mendoza",
+    "med_consultorio": "Consultorio 108",
+    "med_especialidad": "Urología"
+  },
+  {
+    "med_nro_matricula": "45678",
+    "med_nombre_completo": "Dr. Jorge Pérez",
+    "med_consultorio": "Consultorio 109",
+    "med_especialidad": "Oncología"
+  },
+  {
+    "med_nro_matricula": "65432",
+    "med_nombre_completo": "Dra. Carolina Vargas",
+    "med_consultorio": "Consultorio 110",
+    "med_especialidad": "Psiquiatría"
+  }
+]
