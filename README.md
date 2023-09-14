@@ -49,6 +49,7 @@ Usar doc '9876543210' para ver mejor el funcionamiento
 | `doctor`   | `string` | **Requerido**. Nombre del doctor |
 
 Es sensible a tildes y signos de puntuación.
+Usar '%' para los espacios
 
 #### 6. Encontrar todas las citas de un día en específico (por ejemplo, ‘2023-07-12’).
 
@@ -60,3 +61,25 @@ Es sensible a tildes y signos de puntuación.
 | :-------- | :------- | :-------------------------------- |
 | `fecha`   | `string` | **Requerido**. Fecha a buscar. |
 
+#### 7. Obtener todos los médicos con sus consultorios correspondientes.
+
+```bash
+  GET /api/v1/medicos
+```
+
+
+#### 8. Contar el número de citas que un médico tiene en un día específico (por ejemplo, el médico con med_numMatriculaProfesional 1 en ‘2023-07-12’).
+
+```bash
+  GET /api/v1/citas/doctores/${doctor}?num=true&date=${fecha}
+```
+| Parameter | Type     | Description                       |
+| :-------- | :------- | :-------------------------------- |
+| `doctor`   | `string` | **Requerido**. Nombre del doctor |
+| :-------- | :------- | :-------------------------------- |
+| `fecha`   | `string` | **Requerido**. Fecha a buscar |
+
+Es sensible a tildes y signos de puntuación.
+Usar '%' para los espacios
+
+#### 10. Obtener todas las citas realizadas por los pacientes de acuerdo al género registrado, siempre y cuando el estado de la cita se encuentra registrada como “Atendida”.

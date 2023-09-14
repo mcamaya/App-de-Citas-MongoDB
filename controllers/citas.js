@@ -49,6 +49,13 @@ export const getCitasDoctores = async (req, res) => {
     try {
         const {doctor} = req.params;
         const doctorRegex = new RegExp(doctor, 'i');
+        
+        if (req.query.num && req.query.date) {
+            const {date} = req.query;
+            const dateRegex = new RegExp(date, 'i');
+            const data = await citas.countDocuments({"cit_medico": doctorRegex, "cit_fecha":dateRegex});
+            return res.status(200).json({count: data});
+        }
         const data = await citas.find({"cit_medico": doctorRegex}).sort({cit_fecha:1}).toArray();
         res.status(200).json(data);
     } catch (err) {
@@ -65,5 +72,17 @@ export const buscarFecha = async (req, res) => {
         res.status(200).json(data);
     } catch (err) {
         res.status(500).json({error:err});
+    }
+}
+
+export const countCitasDoctores = async (req, res) => {
+    try {
+        const {doctor} = req.params;
+        const doctorRegex = new RegExp(doctor, 'i');
+        const data = await citas.countDocuments({"cit_medico": doctorRegex}).toArray();
+        res.status(200).json(data);
+    } catch (err) {
+        console.log(err);
+        res.status(500).json({error:err.message});
     }
 }
